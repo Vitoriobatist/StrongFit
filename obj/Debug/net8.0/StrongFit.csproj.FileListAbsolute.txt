@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.AssemblyInfo.cs
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.RazorAssemblyInfo.cache
+C:\Users\vitor\source\repos\StrongFit\obj\Debug\net8.0\StrongFit.RazorAssemblyInfo.cs

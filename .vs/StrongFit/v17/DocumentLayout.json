@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\StrongFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:controllers\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\controllers\\exerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:controllers\\exerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\controllers\\treinoexerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:controllers\\treinoexerciciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\controllers\\treinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:controllers\\treinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\treinoexercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\treinoexercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\treino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\treino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|c:\\users\\vitor\\source\\repos\\strongfit\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85EC10-D1F7-433F-B8A4-AC632A736316}|StrongFit.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\PersonalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonalController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\PersonalController.cs",
+              "RelativeToolTip": "Controllers\\PersonalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:24:20.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:00:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreinoExercicioController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\TreinoExercicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TreinoExercicioController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\TreinoExercicioController.cs",
+              "RelativeToolTip": "Controllers\\TreinoExercicioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:59:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreinoController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\TreinoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TreinoController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\TreinoController.cs",
+              "RelativeToolTip": "Controllers\\TreinoController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:58:44.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExercicioController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\ExercicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExercicioController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Controllers\\ExercicioController.cs",
+              "RelativeToolTip": "Controllers\\ExercicioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:58:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T19:50:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Context.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Context.cs",
+              "RelativeToolTip": "Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:49:02.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreinoExercicio.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\TreinoExercicio.cs",
+              "RelativeDocumentMoniker": "Models\\TreinoExercicio.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\TreinoExercicio.cs",
+              "RelativeToolTip": "Models\\TreinoExercicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:28:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Exercicio.cs",
+              "RelativeDocumentMoniker": "Models\\Exercicio.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Exercicio.cs",
+              "RelativeToolTip": "Models\\Exercicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:27:46.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Personal.cs",
+              "RelativeDocumentMoniker": "Models\\Personal.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Personal.cs",
+              "RelativeToolTip": "Models\\Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:26:51.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Treino.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Treino.cs",
+              "RelativeDocumentMoniker": "Models\\Treino.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Treino.cs",
+              "RelativeToolTip": "Models\\Treino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:28:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:34:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:27:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\StrongFit\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:34:15.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
